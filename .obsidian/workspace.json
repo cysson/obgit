@@ -11,14 +11,12 @@
             "id": "f65b632bd2b30dc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250514153629.png"
               },
-              "icon": "lucide-file",
-              "title": "test"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250514153629"
             }
           }
         ]
@@ -171,8 +169,8 @@
   },
   "active": "f65b632bd2b30dc4",
   "lastOpenFiles": [
+    "test.md",
     "Pasted image 20250514153629.png",
-    "欢迎.md",
-    "test.md"
+    "欢迎.md"
   ]
 }
