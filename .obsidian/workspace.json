@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机网络"
+              "title": "test"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "c070dcf315cac38e",
   "lastOpenFiles": [
-    "test.md",
     "计算机网络.md",
+    "test.md",
     "Pasted image 20250514153629.png",
     "欢迎.md"
   ]
