@@ -6,6 +6,7 @@
       {
         "id": "27b0ccb735f34e08",
         "type": "tabs",
+        "dimension": 81.4866760168303,
         "children": [
           {
             "id": "f65b632bd2b30dc4",
@@ -27,16 +28,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "矩阵分析习题.md",
-                "mode": "source",
+                "file": "智慧树习题.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "矩阵分析习题"
-            }
+              "title": "智慧树习题"
+            },
+            "group": "76dc14cd59bbe2f0"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "98b42359592c8e08",
+        "type": "tabs",
+        "dimension": 18.513323983169705,
+        "children": [
+          {
+            "id": "f3afa470081d5ad5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "智慧树习题.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "智慧树习题 的大纲"
+            },
+            "group": "76dc14cd59bbe2f0"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "智慧树习题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "test 的反向链接列表"
+              "title": "智慧树习题 的反向链接列表"
             }
           },
           {
@@ -185,8 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c070dcf315cac38e",
+  "active": "f3afa470081d5ad5",
   "lastOpenFiles": [
+    "计算机网络.md",
+    "智慧树习题.md",
+    "矩阵分析习题.md",
     "31.jpg",
     "30.jpg",
     "29.png",
@@ -196,8 +224,6 @@
     "03.jpg",
     "02.jpg",
     "test.md",
-    "矩阵分析习题.md",
-    "计算机网络.md",
     "Pasted image 20250514153629.png",
     "欢迎.md"
   ]
