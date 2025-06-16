@@ -11,10 +11,14 @@
             "id": "1b19e1461040a0a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "计算理论/计算理论概念.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "计算理论概念"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76374a40c531245e",
@@ -167,19 +170,26 @@
   },
   "active": "1b19e1461040a0a1",
   "lastOpenFiles": [
+    "计算理论/计算理论证明题.md",
+    "计算理论/计算理论概念.md",
+    "计算理论/image/08.png",
+    "计算理论/image/07.png",
+    "计算理论/image/06.png",
+    "计算理论/image/05.png",
+    "计算理论/image/04.png",
+    "计算理论/image/03.png",
+    "计算理论/image/02.png",
+    "计算理论/image/01.png",
+    "计算理论/image",
+    "矩阵分析/02.jpg",
+    "计算理论",
+    "矩阵分析/31.jpg",
+    "矩阵分析",
+    "考试题.md",
     "test.md",
     "智慧树习题.md",
     "计算机网络.md",
-    "矩阵分析习题.md",
-    "31.jpg",
-    "30.jpg",
-    "29.png",
-    "27.jpg",
-    "13.png",
-    "12.png",
-    "03.jpg",
-    "02.jpg",
-    "Pasted image 20250514153629.png",
+    "矩阵分析/矩阵分析习题.md",
     "欢迎.md"
   ]
 }
