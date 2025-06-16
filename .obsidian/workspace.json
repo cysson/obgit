@@ -11,14 +11,12 @@
             "id": "1b19e1461040a0a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "计算理论/计算理论概念.md",
-                "mode": "source",
-                "source": false
+                "file": "计算理论/img/08.png"
               },
-              "icon": "lucide-file",
-              "title": "计算理论概念"
+              "icon": "lucide-image",
+              "title": "08"
             }
           }
         ]
@@ -170,8 +168,10 @@
   },
   "active": "1b19e1461040a0a1",
   "lastOpenFiles": [
-    "计算理论/计算理论证明题.md",
+    "计算理论/计算理论概念.md",
+    "矩阵分析/矩阵分析习题.md",
     "计算理论/img/01.png",
+    "计算理论/计算理论证明题.md",
     "计算理论/img/08.png",
     "计算理论/img/07.png",
     "计算理论/img/06.png",
@@ -179,7 +179,6 @@
     "计算理论/img/04.png",
     "计算理论/img/03.png",
     "计算理论/img/02.png",
-    "计算理论/计算理论概念.md",
     "计算理论/img",
     "矩阵分析/02.jpg",
     "计算理论",
@@ -189,7 +188,6 @@
     "test.md",
     "智慧树习题.md",
     "计算机网络.md",
-    "矩阵分析/矩阵分析习题.md",
     "欢迎.md"
   ]
 }
