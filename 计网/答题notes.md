@@ -3,3 +3,9 @@
 ![[Pasted image 20250617110531.png]]
 ![[Pasted image 20250617110651.png]]
 ![[Pasted image 20250617110712.png]]
+## 拥塞控制
+![[Pasted image 20250617111408.png]]
+慢开始算法：cwnd 值从1开始，每收到⼀个ACK，就让 cwnd+1（当 cwnd<ssthress 时适⽤）
+拥塞避免算法：在⼀个RTT内，即使收到多个ACK，也只能让 cwnd+1（当 cwnd≥ssthress 时适⽤）
+快重传：当发送⽅收到三个确认号相同的冗余ACK时，⽴即重传对应报⽂段
+快恢复算法：⼀旦发⽣快重传，就将阈值、cwnd 都设为当前 cwnd 的⼀半，然后切换到为“拥塞避免算法”
