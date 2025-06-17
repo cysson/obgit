@@ -25,5 +25,8 @@
 
 ### NAT（内网-外网）
 ![[Pasted image 20250617114657.png]]
+### DHCP
+![[Pasted image 20250617115509.png]]
 ### ARP
 
+![[Pasted image 20250617115620.png]]
