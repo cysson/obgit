@@ -30,3 +30,15 @@
 ### ARP
 
 ![[Pasted image 20250617115620.png]]
+### 路由协议
+#### IGP
+##### LS-OSPF
+dijkstra算法
+
+##### DV-RIP
+距离向量
+#### EGP-BGP
+
+
+
+
