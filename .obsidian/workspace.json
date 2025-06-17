@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "智慧树习题.md",
+                "file": "计算理论/计算理论证明题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "智慧树习题"
+              "title": "计算理论证明题"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "1b19e1461040a0a1",
   "lastOpenFiles": [
+    "智慧树习题.md",
     "考试题.md",
     "计算机网络.md",
     "计算理论/计算理论概念.md",
@@ -189,7 +190,6 @@
     "矩阵分析/31.jpg",
     "矩阵分析",
     "test.md",
-    "智慧树习题.md",
     "欢迎.md"
   ]
 }
