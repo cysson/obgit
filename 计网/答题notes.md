@@ -15,5 +15,9 @@
 ### IP数据报
 ![[Pasted image 20250617112421.png]]
 ### IP 路由转发
-
-![[Pasted image 20250617113551.png]]
+![[Pasted image 20250617113436.png]]
+![[Pasted image 20250617113551.png]]![[Pasted image 20250617113618.png]]
+![[Pasted image 20250617113853.png]]
+![[Pasted image 20250617113917.png]]
+### CIDR地址分配
+![[Pasted image 20250617114104.png]]
