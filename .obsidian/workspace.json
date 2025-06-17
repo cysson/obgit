@@ -143,16 +143,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
+                "file": "计网/智慧树习题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "test 的大纲"
+              "title": "智慧树习题 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b19e1461040a0a1",
+  "active": "5b059f6cfe9a7c08",
   "lastOpenFiles": [
     "计网/答题notes.md",
     "Pasted image 20250617130850.png",
