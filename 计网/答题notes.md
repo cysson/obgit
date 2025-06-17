@@ -17,7 +17,11 @@
 ### IP 路由转发
 ![[Pasted image 20250617113436.png]]
 ![[Pasted image 20250617113551.png]]![[Pasted image 20250617113618.png]]
+**采用 CIDR 技术后，由于 “路由聚合”，一个IP地址在转发表中可能会匹配多个表项，此时应使用最长前缀匹配原则**
 ![[Pasted image 20250617113853.png]]
 ![[Pasted image 20250617113917.png]]
 ### CIDR地址分配
 ![[Pasted image 20250617114104.png]]
+
+### NAT（内网-外网）
+
