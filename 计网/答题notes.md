@@ -40,5 +40,9 @@ dijkstra算法
 #### EGP-BGP
 
 
+## 物理链路层
+### CSMA/CD
+
+![[Pasted image 20250617130850.png]]
 
 
