@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计网/智慧树习题.md",
+                "file": "计网/答题notes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "智慧树习题"
+              "title": "答题notes"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计网/智慧树习题.md",
+                "file": "计网/答题notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "智慧树习题 的大纲"
+              "title": "答题notes 的大纲"
             }
           }
         ],
@@ -171,23 +171,22 @@
   },
   "active": "1b19e1461040a0a1",
   "lastOpenFiles": [
+    "计网/智慧树习题.md",
+    "Pasted image 20250620004729.png",
+    "Pasted image 20250620004704.png",
+    "Pasted image 20250620004653.png",
+    "Pasted image 20250620004607.png",
     "Pasted image 20250620003703.png",
     "Pasted image 20250620003610.png",
     "Pasted image 20250620003535.png",
     "Pasted image 20250620002907.png",
     "Pasted image 20250619234715.png",
     "Pasted image 20250619231748.png",
-    "Pasted image 20250619231731.png",
     "计网/计算机网络.md",
     "计网/答题notes.md",
     "计算理论/考试题.md",
     "计算理论/计算理论证明题.md",
     "计算理论/计算理论概念.md",
-    "Pasted image 20250617130850.png",
-    "Pasted image 20250617130844.png",
-    "Pasted image 20250617130732.png",
-    "计网/智慧树习题.md",
-    "计网/image/Pasted image 20250617130630.png",
     "计网/image",
     "欢迎.md",
     "test.md",
