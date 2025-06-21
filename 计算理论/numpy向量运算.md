@@ -44,4 +44,4 @@ print("向量夹角(度):", math.degrees(angle))
 
 ### 运行效果截图
 
-![10](../image/10.png)
+![[10.png]]
