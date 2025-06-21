@@ -23,7 +23,7 @@ SVM由Vladimir Vapnik和Alexey Chervonenkis在20世纪60年代末至90年代中�
 
 线性SVM旨在找到一个最佳的超平面，将数据集中的不同类别分开。这个最佳超平面是指到最近的数据点（支持向量）距离最大的超平面，如图1所示。
 
-![svm](../image/svm.png)图1. 线性SVM的超平面及其分类示意图
+![[svm.png]]图1. 线性SVM的超平面及其分类示意图
 
 
 
@@ -167,6 +167,5 @@ plot_decision_boundary(model, X_train, y_train)
 
 运行上述代码，我们可以得到分类报告和混淆矩阵，进一步评估模型的性能。决策边界图显示了SVM在二维特征空间中的分类能力。
 
-![15](../image/15.png)
-
-![svm_decision_boundary](../image/svm_decision_boundary.png)
+![[15.png]]
+![[svm_decision_boundary_副本.png]]
