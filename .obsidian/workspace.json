@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算理论/CNN与矩阵运算.md",
-                "mode": "preview",
+                "file": "算法.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CNN与矩阵运算"
+              "title": "算法"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算理论/CNN与矩阵运算.md",
+                "file": "算法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CNN与矩阵运算 的大纲"
+              "title": "算法 的大纲"
             }
           }
         ],
@@ -171,25 +171,26 @@
   },
   "active": "1b19e1461040a0a1",
   "lastOpenFiles": [
+    "计算理论/svm.png",
+    "计网/Pasted image 20250617130732.png",
+    "计算理论/01.jpg",
+    "计算理论/CNN与矩阵运算.md",
     "计算理论/NN与向量运算.md",
     "计算理论/numpy向量运算.md",
     "计算理论/Python矩阵运算.md",
     "计算理论/SVM支持向量机.md",
     "计算理论/word2vec词向量.md",
-    "25.png",
-    "svm.png",
-    "svm_decision_boundary_副本.png",
-    "15 1.png",
-    "15.png",
-    "01 2.jpg",
-    "01 1.jpg",
-    "01.jpg",
-    "10.png",
-    "未命名.md",
-    "计算理论/CNN与矩阵运算.md",
+    "计算理论/25.png",
+    "计算理论/svm_decision_boundary_副本.png",
+    "计算理论/15 1.png",
+    "计算理论/15.png",
+    "计算理论/01 2.jpg",
+    "计算理论/01 1.jpg",
+    "计算理论/10.png",
+    "算法.md",
     "计网/智慧树习题.md",
     "计网/答题notes.md",
-    "Pasted image 20250620004729.png",
+    "计网/Pasted image 20250620004729.png",
     "计网/计算机网络.md",
     "计算理论/考试题.md",
     "计算理论/计算理论证明题.md",
