@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#人员安排",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,11 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e55684669659c4c",
+  "active": "9b5265adcc4da85f",
   "lastOpenFiles": [
     "认知科学大作业.md",
-    "2025宣传规划.md",
     "算法.md",
+    "2025宣传规划.md",
     "计算理论/svm.png",
     "计网/Pasted image 20250617130732.png",
     "计算理论/01.jpg",
