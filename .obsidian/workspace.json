@@ -35,7 +35,8 @@
               "title": "作文补课-2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,10 +188,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d47358768e255ff8",
+  "active": "468147244da7532b",
   "lastOpenFiles": [
-    "作文补课-2.md",
     "作文补课 -1.md",
+    "作文补课-2.md",
     "Pasted image 20250805163203.png",
     "Pasted image 20250805163147.png",
     "Pasted image 20250805163005.png",
