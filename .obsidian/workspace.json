@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法.md",
+                "file": "作文补课-3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法 的大纲"
+              "title": "作文补课-3 的大纲"
             }
           }
         ],
@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
