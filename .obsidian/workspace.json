@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,6 +202,7 @@
   },
   "active": "468147244da7532b",
   "lastOpenFiles": [
+    "Pasted image 20251025144931.png",
     "Pasted image 20251024231027.png",
     "作文补课-3.md",
     "作文补课 -1.md",
@@ -228,7 +230,6 @@
     "计算理论/Python矩阵运算.md",
     "计算理论/SVM支持向量机.md",
     "计算理论/word2vec词向量.md",
-    "计算理论/25.png",
     "计网/智慧树习题.md",
     "计网/答题notes.md",
     "计网/计算机网络.md",
